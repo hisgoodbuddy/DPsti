@@ -9,7 +9,7 @@
 * Fixed DP eddy current compensation Gradient dur to 7ms.
 * Using existing gradients for stimulated echo forming while keeping the CPMG condition. (This is wiser than put the single refocusing gradient after RF. That strategy was implemented in the other branch already). Dephasing gradient still at the end of t2prep, but it copies the Gradient in DP-TSE. For TSE acquisition, the strength is determined by a control parameter. 
 * Adding recalibration for non-m1 nulling twice refocusing diffusion gradients 
-* 
+
 
 **RF pulase**
 --
