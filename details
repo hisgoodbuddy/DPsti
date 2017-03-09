@@ -1,0 +1,3 @@
+###Use SQ`T2prep to hold diffusion gradients, and performed before TFE and TSE readout.
+---
+1.Diffusion gradient slope to 0.9.
