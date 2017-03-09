@@ -21,7 +21,7 @@
 
 
 
-**Other tips**
+**Other issues**
 --
 
 * Turn off phase encoding gradient to measure FID signal to get better understanding of the sequence physics
